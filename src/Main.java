@@ -10,5 +10,6 @@ public class Main {
             System.out.println("maven is belangrijk");
 
         }
+        System.out.println("Student klas is klaar");
     }
 }
